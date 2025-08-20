@@ -1,0 +1,1 @@
+HI, Welcome to my fullstack development journey with the odin project.
